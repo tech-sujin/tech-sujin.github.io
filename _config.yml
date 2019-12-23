@@ -21,8 +21,8 @@ locale                   : "ko-KR"
 title                    : "수진 막배움"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "SUJIN"
+description              : "막배우는 기술"
 url                      : "tech-sujin.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,9 +109,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SUJIN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "기술을 막배우는 장소를 만들고 싶은 1인입니다."
   location         : "Somewhere"
   email            :
   links:
